@@ -1,4 +1,4 @@
-# Java Gundamentals
+# Java Fundamentals
 It is time to dive into Java Fundamentals
 
 ### License
